@@ -1,7 +1,7 @@
-x=int(input(43))
+x=int(input())
 if x>0:
   print("positive")
-elif:
+elif x<0:
   print("negative")
 else:
   print("zero")
