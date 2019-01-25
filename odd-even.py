@@ -1,6 +1,6 @@
 x=int(input())
 if x%2==0:
-    print("x is Even")
+    print("it is Even")
 else:
-     print("x is Odd")
+     print("it is Odd")
      
