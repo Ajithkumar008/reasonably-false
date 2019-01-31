@@ -1,4 +1,4 @@
-#primenumber......
+#primenumber......ajith
 x=int(input("enter a value"))
 if x<=1000:
     if(x>1):
