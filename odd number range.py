@@ -1,6 +1,6 @@
 N,Q=map(int,input("enter two values").split())
 if(N<=10000 and Q<=10000):
-    for i in range(N,Q,1):
+    for i in range(N+1,Q,1):
         if(i%2==1):
             print (i,end=" ")
 else:
