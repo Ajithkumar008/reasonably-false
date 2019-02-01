@@ -1,3 +1,4 @@
+#ajith prime range......
 n,k=map(int,input("Enter 2 numbers:").split())
 for add in range(n+1,k):
     if(add>1):
@@ -5,4 +6,4 @@ for add in range(n+1,k):
             if(add%i==0):
                 break
         else:
-            print(add)
+            print(add,end=" ")
